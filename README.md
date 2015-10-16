@@ -1,4 +1,7 @@
 # altnode.AudioNode
+[![Build Status](http://img.shields.io/travis/altnode/audio-node.svg?style=flat-square)](https://travis-ci.org/altnode/audio-node)
+[![NPM Version](http://img.shields.io/npm/v/altnode.audio-node.svg?style=flat-square)](https://www.npmjs.org/package/altnode.audio-node)
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://mohayonao.mit-license.org/)
 
 ## Installation
 
