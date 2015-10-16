@@ -1,4 +1,4 @@
-import "./customize-audio-node";
+import "./customize-audio-node-prototype";
 import { CONTEXT } from "./symbols";
 
 export default class AudioNode {

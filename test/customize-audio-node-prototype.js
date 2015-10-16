@@ -1,6 +1,6 @@
 import assert from "power-assert";
 import sinon from "sinon";
-import "../src/customize-audio-node";
+import "../src/customize-audio-node-prototype";
 
 global.WebAudioTestAPI.setState({ "AudioNode#disconnect": "selective" });
 
