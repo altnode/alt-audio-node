@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm install -s altnode.audionode
+npm install -s altnode.audio-node
 ```
 
 ## LICENSE
