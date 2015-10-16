@@ -13,6 +13,7 @@ describe("AltAudioNode", () => {
       let node = new AltAudioNode(audioContext);
 
       assert(node instanceof AltAudioNode);
+      assert(node instanceof global.AudioNode);
     });
   });
   describe("#context: AudioContext", () => {
