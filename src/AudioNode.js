@@ -14,5 +14,6 @@ export default class AudioNode {
   disconnect() {}
   dispose() {}
 
-  __connectFrom() {}
+  // __connectFrom() {}
+  // __disconnectFrom() {}
 }
