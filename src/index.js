@@ -1,3 +1,3 @@
-import AudioNode from "./AudioNode";
+import AltAudioNode from "./AltAudioNode";
 
-export default AudioNode;
+export default AltAudioNode;

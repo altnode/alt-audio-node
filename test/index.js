@@ -1,9 +1,9 @@
 import assert from "power-assert";
 import index from "../src";
-import AudioNode from "../src/AudioNode";
+import AltAudioNode from "../src/AltAudioNode";
 
 describe("index", () => {
   it("exports", () => {
-    assert(index === AudioNode);
+    assert(index === AltAudioNode);
   });
 });

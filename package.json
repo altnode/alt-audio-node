@@ -1,10 +1,10 @@
 {
-  "name": "altnode.audio-node",
-  "description": "altnode.AudioNode",
-  "version": "0.1.1",
+  "name": "altnode.alt-audio-node",
+  "description": "Base class for customized AudioNode",
+  "version": "0.2.0",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
-    "url": "https://github.com/altnode/audio-node/issues"
+    "url": "https://github.com/altnode/alt-audio-node/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -24,7 +24,7 @@
     "index.js",
     "lib"
   ],
-  "homepage": "https://github.com/altnode/audio-node",
+  "homepage": "https://github.com/altnode/alt-audio-node",
   "keywords": [
     "Web Audio API"
   ],
@@ -32,7 +32,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/altnode/audio-node.git"
+    "url": "https://github.com/altnode/alt-audio-node.git"
   },
   "scripts": {
     "build": "babel src --out-dir lib",
