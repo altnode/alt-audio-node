@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-npm install -s altnode.audio-node
+npm install -S altnode.audio-node
 ```
 
 ## API
