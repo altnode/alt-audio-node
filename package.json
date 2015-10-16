@@ -1,0 +1,19 @@
+{
+  "name": "altnode.audionode",
+  "description": "altnode.AudioNode",
+  "version": "0.0.0",
+  "author": "Nao Yonamine <mohayonao@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/altnode/AudioNode/issues"
+  },
+  "homepage": "https://github.com/altnode/AudioNode",
+  "keywords": [
+    "Web Audio API"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/altnode/AudioNode.git"
+  }
+}
