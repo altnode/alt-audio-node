@@ -1,7 +1,7 @@
 {
   "name": "altnode.audio-node",
   "description": "altnode.AudioNode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/altnode/audio-node/issues"
@@ -18,6 +18,12 @@
     "sinon": "^1.17.1",
     "web-audio-test-api": "^0.3.6"
   },
+  "files": [
+    "package.json",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
   "homepage": "https://github.com/altnode/audio-node",
   "keywords": [
     "Web Audio API"
