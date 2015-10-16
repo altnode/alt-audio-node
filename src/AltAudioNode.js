@@ -1,7 +1,7 @@
 import "./customize-audio-node-prototype";
 import { CONTEXT } from "./symbols";
 
-export default class AudioNode {
+export default class AltAudioNode {
   constructor(audioContext) {
     this[CONTEXT] = audioContext;
   }
